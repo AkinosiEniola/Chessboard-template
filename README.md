@@ -1,1 +1,1 @@
-# Chessboard-Template
+# Chessboard-template
